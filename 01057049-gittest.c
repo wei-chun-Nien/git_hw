@@ -3,8 +3,12 @@
 int main(){
 
 
+<<<<<<< HEAD
 
     printf("Hello World");
+
+=======
+>>>>>>> newbh
 
 
 
